@@ -1,8 +1,8 @@
-<h1> Projeto de web rádio que toca playlist em saída http </h1>
+<h1> Web radio project that plays playlists in HTTP output directly in the browser or in different application components.</h1>
 
-Para executar, basta instalar a pasta do ffmpeg para windows e setar a pasta bin no path do sistema. Depois executar o stream.js;
+To run, simply install the ffmpeg folder for Windows and set the bin folder to the system path. Then run stream.js;
 https://ffmpeg.org/download.html
 
-As músicas ficam na pasta songs e precisam estar no formato .aac;
+The songs are in the songs folder and must be in .aac format;
 
-A pasta vignettes guarda as vinhetas que são tocadas entre as músicas;
+The vignettes folder stores the vignettes that play between songs;
